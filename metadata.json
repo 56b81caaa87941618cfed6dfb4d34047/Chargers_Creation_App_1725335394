@@ -4,5 +4,6 @@
     "project_description": "an app for making the Chargers",
     "creation_time": "2024-09-03 03:49:54.203673",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a surreal, cosmic landscape with a predominant color scheme of vibrant pinks and purples, creating a dreamy and otherworldly ambiance. The style blends elements of fantasy art with a neon glow effect, highlighting the celestial bodies and the reflective surface."
 }
