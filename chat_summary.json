@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Free' button to be positioned in the app?\", \"option1\": \"At the top of the homepage\", \"option2\": \"At the bottom of the main features page\"}, {\"question 2\": \"What color or style do you envision for the 'Free' button?\", \"option1\": \"Bold and bright color\", \"option2\": \"Subtle and minimalist design\"}], \"input_token_count\": 290, \"output_token_count\": 97, \"time_taken\": \"0:00:01.311579\"}",
+        "timestamp": "03092024041532",
+        "message_id": "guest03092024041528"
+    },
+    {
         "role": "user",
         "content": "add a button with text Free ",
         "timestamp": "03092024041529",
