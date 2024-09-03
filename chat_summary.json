@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button with text 'Nine' to be placed within the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What style do you prefer for the 'Nine' button? \", \"option1\": \"Rounded corners\", \"option2\": \"Square corners\"}], \"input_token_count\": 312, \"output_token_count\": 91, \"time_taken\": \"0:00:01.179156\"}",
+        "timestamp": "03092024042622",
+        "message_id": "guest03092024042617"
+    },
+    {
         "role": "user",
         "content": "add a button with text Nine",
         "timestamp": "03092024042619",
